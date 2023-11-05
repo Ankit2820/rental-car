@@ -7,7 +7,7 @@ const Container = styled.div`
         rgba(255, 255, 255, 0.5),
         rgba(255, 255, 255, 0.5)
         ),   
-    url("https://images.pexels.com/photos/6984650/pexels-photo-6984650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+    url("https://images.unsplash.com/photo-1588623259724-71e3e35834c9?auto=format&fit=crop&q=60&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNhciUyMGJsdWV8ZW58MHx8MHx8fDA%3D")
     center;
     background-size: cover;
     display: flex;
@@ -42,7 +42,7 @@ const Button = styled.button`
     width: 40%;
     border: none;
     padding: 15px 20px;
-    background-color: teal;
+    background-color: #000d6b;
     color: white;
     cursor: pointer;
     margin-bottom: 10px;
